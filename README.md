@@ -7,15 +7,15 @@ Its purpose is to analyze the relationship between house prices in Leeds and the
 
 ## files
 
-1a.xlsx :The median price of the processed houses(LSOA)
+1a.xlsx :The median price of the processed houses(LSOA)(Office of National Statistics)
 
-APHS_EW_LSOA_2024.csv :house age(LSOA)
+APHS_EW_LSOA_2024.csv :house age(LSOA)(https://datadaptive.com/)
 
-leeds.geojson :Leeds map(LSOA)
+leeds.geojson :Leeds map(LSOA)(Office of National Statistics)
 
 Spatial data science report.ipynb - Colab :PDF coding
 
-Spatial_data_science_report.ipynb :coding
+Spatial_data_science_report.ipynb :this is ##python## coding
 
 README :this
 
@@ -27,6 +27,18 @@ Download all files
 Open Spatial_data_science_report.ipynb in Jupyter Notebook or Google Colab.
 
 Run
+
+##Code explanation
+
+1. The package needs to be downloaded.
+  
+2. The downloaded data file for this project covers all LSOAs in England and Wales. The file is large and requires data extraction.
+ 
+3. The median house prices have missing data, which are represented by ":". Manual cleaning is required for these missing values.
+   
+4. Box plots are generated for house prices and house ages.
+   
+5. House ages are categorized into 16 groups, and house prices are divided into 10 groups. A gradient color map is generated, which is color blindness-friendly.
 
 ## Acknowledgements
 
