@@ -5,14 +5,20 @@ This is the assignment for GEOG5990M.
 
 Its purpose is to analyze the relationship between house prices in Leeds and the building years.
 
-file
+files
 
 1a.xlsx :The median price of the processed houses(LSOA)
+
 APHS_EW_LSOA_2024.csv :house age(LSOA)
+
 leeds.geojson :Leeds map(LSOA)
+
 Spatial data science report.ipynb - Colab :PDF coding
+
 Spatial_data_science_report.ipynb :coding
-README this
+
+README :this
+
 
 how to run
 
