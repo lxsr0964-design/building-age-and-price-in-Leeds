@@ -7,22 +7,26 @@ Its purpose is to analyze the relationship between house prices in Leeds and the
 
 ## files
 
-1a.xlsx :The median price of the processed houses(LSOA)(Office of National Statistics)
+1a.xlsx :The median price of the processed houses(LSOA)(Office for National Statistics)
 
 APHS_EW_LSOA_2024.csv :house age(LSOA)(https://datadaptive.com/)
 
-leeds.geojson :Leeds map(LSOA)(Office of National Statistics)
+leeds.geojson :Leeds map(LSOA)(Office for National Statistics)
 
-Spatial data science report.ipynb - Colab :PDF coding
+Spatial data science report.ipynb - Colab :PDF version of the report
 
-Spatial_data_science_report.ipynb :this is ##python## coding
+Spatial_data_science_report.ipynb :this is #python# coding
 
 README :this
 
 
 ## how to run
 
-Download all files 
+Operating environment: Jupyter Notebook or Google Colab
+
+Required libraries: `pandas`, `geopandas`, `matplotlib`, `seaborn`, etc. need to be installed in Python environment
+
+Download all files in same flode
 
 Open Spatial_data_science_report.ipynb in Jupyter Notebook or Google Colab.
 
