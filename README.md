@@ -1,11 +1,11 @@
 # building-age-and-price-in-Leeds
 The research question of this report is: Is there an association between building age and price in Leeds?
 
-This is the assignment for GEOG5990M. 
+## This is the assignment for GEOG5990M. 
 
 Its purpose is to analyze the relationship between house prices in Leeds and the building years.
 
-files
+## files
 
 1a.xlsx :The median price of the processed houses(LSOA)
 
