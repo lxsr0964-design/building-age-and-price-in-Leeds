@@ -22,8 +22,12 @@ README :this
 
 ## how to run
 
-download all files 
-run Spatial_data_science_report.ipynb
+Download all files 
 
+Open Spatial_data_science_report.ipynb in Jupyter Notebook or Google Colab.
 
-## Thank you for the 5990M course.
+Run
+
+## Acknowledgements
+
+Thank you to the teaching team of GEOG5990M
